@@ -1,0 +1,7 @@
+<resources>
+    <color name="primary">#3F51B5</color>
+    <color name="cell_bg">#E8EAF6</color>
+    <color name="x_color">#D32F2F</color>
+    <color name="o_color">#1976D2</color>
+    <color name="win_bg">#C8E6C9</color>
+</resources>

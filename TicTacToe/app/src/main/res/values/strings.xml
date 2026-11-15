@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Крестики-нолики</string>
+    <string name="title">X / O ойыны</string>
+    <string name="turn">Кезек: %1$s</string>
+    <string name="win">Жеңімпаз: %1$s!</string>
+    <string name="draw">Тең ойын!</string>
+    <string name="score">X: %1$d   O: %2$d   Тең: %3$d</string>
+    <string name="new_game">Жаңа ойын</string>
+    <string name="reset_score">Есепті нөлдеу</string>
+</resources>
